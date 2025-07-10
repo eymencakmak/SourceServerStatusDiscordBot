@@ -1,8 +1,8 @@
 
 # 🎮 Discord Game Server Info Bot
 
-A simple yet powerful Discord bot that displays live information about any A2S-compatible game server (e.g., CS:GO, Team Fortress 2, Garry's Mod, etc.).  
-It fetches server name, map, players, and ping, and keeps the message updated every 10 seconds.
+A simple yet powerful Discord bot that displays live information about any A2S-compatible game server (e.g., CS2, Team Fortress 2, Garry's Mod, etc.).  
+It fetches server name, map, players, and ping, and keeps the message updated.
 
 ## 🚀 Features
 
@@ -22,7 +22,6 @@ It fetches server name, map, players, and ping, and keeps the message updated ev
   ```
 
 The bot will:
-- Delete your command message for cleanliness
 - Post an embed showing:
   - Server name
   - Map
